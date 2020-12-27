@@ -1,2 +1,2 @@
 ## Repositório de colab notebooks
-![](https://github.com/da-ferreira/colab-notebooks/blob/main/colab.png =20x20)
+![](https://github.com/da-ferreira/colab-notebooks/blob/main/colab.png)
